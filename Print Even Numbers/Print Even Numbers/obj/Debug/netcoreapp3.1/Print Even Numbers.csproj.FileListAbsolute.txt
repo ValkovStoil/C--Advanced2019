@@ -1,0 +1,10 @@
+C:\Programing\C--Advanced2019\Print Even Numbers\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.exe
+C:\Programing\C--Advanced2019\Print Even Numbers\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.deps.json
+C:\Programing\C--Advanced2019\Print Even Numbers\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.runtimeconfig.json
+C:\Programing\C--Advanced2019\Print Even Numbers\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Print Even Numbers\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.dll
+C:\Programing\C--Advanced2019\Print Even Numbers\Print Even Numbers\bin\Debug\netcoreapp3.1\Print Even Numbers.pdb
+C:\Programing\C--Advanced2019\Print Even Numbers\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Print Even Numbers\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Print Even Numbers\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.dll
+C:\Programing\C--Advanced2019\Print Even Numbers\Print Even Numbers\obj\Debug\netcoreapp3.1\Print Even Numbers.pdb

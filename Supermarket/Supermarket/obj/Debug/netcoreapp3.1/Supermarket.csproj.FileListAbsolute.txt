@@ -1,0 +1,10 @@
+C:\Programing\C--Advanced2019\Supermarket\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.exe
+C:\Programing\C--Advanced2019\Supermarket\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.deps.json
+C:\Programing\C--Advanced2019\Supermarket\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.json
+C:\Programing\C--Advanced2019\Supermarket\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Supermarket\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.dll
+C:\Programing\C--Advanced2019\Supermarket\Supermarket\bin\Debug\netcoreapp3.1\Supermarket.pdb
+C:\Programing\C--Advanced2019\Supermarket\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Supermarket\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Supermarket\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.dll
+C:\Programing\C--Advanced2019\Supermarket\Supermarket\obj\Debug\netcoreapp3.1\Supermarket.pdb

@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.exe
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.deps.json
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.runtimeconfig.json
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.dll
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\bin\Debug\netcoreapp3.1\Sum Matrix Columns.pdb
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.dll
+C:\Programing\C--Advanced2019\Sum Matrix Columns\Sum Matrix Columns\obj\Debug\netcoreapp3.1\Sum Matrix Columns.pdb

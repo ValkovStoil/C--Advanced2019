@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.exe
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.deps.json
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.runtimeconfig.json
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.dll
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\bin\Debug\netcoreapp3.1\Sum Matrix Elements.pdb
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.dll
+C:\Programing\C--Advanced2019\Sum Matrix Elements\Sum Matrix Elements\obj\Debug\netcoreapp3.1\Sum Matrix Elements.pdb

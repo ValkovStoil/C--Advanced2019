@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.exe
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.deps.json
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.runtimeconfig.json
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.dll
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\bin\Debug\netcoreapp3.1\Symbol in Matrix.pdb
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.dll
+C:\Programing\C--Advanced2019\Symbol in Matrix\Symbol in Matrix\obj\Debug\netcoreapp3.1\Symbol in Matrix.pdb

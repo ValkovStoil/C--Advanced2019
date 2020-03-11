@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.exe
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.deps.json
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.runtimeconfig.json
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.dll
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\bin\Debug\netcoreapp3.1\Average Student Grades.pdb
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.dll
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.pdb
+C:\Programing\C--Advanced2019\Average Student Grades\Average Student Grades\obj\Debug\netcoreapp3.1\Average Student Grades.csprojAssemblyReference.cache

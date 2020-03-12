@@ -1,0 +1,10 @@
+C:\Programing\C--Advanced2019\Basic Queue Operations\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Basic Queue Operations\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Basic Queue Operations\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.exe
+C:\Programing\C--Advanced2019\Basic Queue Operations\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.deps.json
+C:\Programing\C--Advanced2019\Basic Queue Operations\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.runtimeconfig.json
+C:\Programing\C--Advanced2019\Basic Queue Operations\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Basic Queue Operations\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.dll
+C:\Programing\C--Advanced2019\Basic Queue Operations\Basic Queue Operations\bin\Debug\netcoreapp3.1\Basic Queue Operations.pdb
+C:\Programing\C--Advanced2019\Basic Queue Operations\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.dll
+C:\Programing\C--Advanced2019\Basic Queue Operations\Basic Queue Operations\obj\Debug\netcoreapp3.1\Basic Queue Operations.pdb

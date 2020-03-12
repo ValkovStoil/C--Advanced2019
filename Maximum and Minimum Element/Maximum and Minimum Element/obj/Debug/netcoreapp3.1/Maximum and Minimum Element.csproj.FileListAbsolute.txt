@@ -1,0 +1,10 @@
+C:\Programing\C--Advanced2019\Maximum and Minimum Element\Maximum and Minimum Element\bin\Debug\netcoreapp3.1\Maximum and Minimum Element.exe
+C:\Programing\C--Advanced2019\Maximum and Minimum Element\Maximum and Minimum Element\bin\Debug\netcoreapp3.1\Maximum and Minimum Element.deps.json
+C:\Programing\C--Advanced2019\Maximum and Minimum Element\Maximum and Minimum Element\bin\Debug\netcoreapp3.1\Maximum and Minimum Element.runtimeconfig.json
+C:\Programing\C--Advanced2019\Maximum and Minimum Element\Maximum and Minimum Element\bin\Debug\netcoreapp3.1\Maximum and Minimum Element.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Maximum and Minimum Element\Maximum and Minimum Element\bin\Debug\netcoreapp3.1\Maximum and Minimum Element.dll
+C:\Programing\C--Advanced2019\Maximum and Minimum Element\Maximum and Minimum Element\bin\Debug\netcoreapp3.1\Maximum and Minimum Element.pdb
+C:\Programing\C--Advanced2019\Maximum and Minimum Element\Maximum and Minimum Element\obj\Debug\netcoreapp3.1\Maximum and Minimum Element.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Maximum and Minimum Element\Maximum and Minimum Element\obj\Debug\netcoreapp3.1\Maximum and Minimum Element.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Maximum and Minimum Element\Maximum and Minimum Element\obj\Debug\netcoreapp3.1\Maximum and Minimum Element.dll
+C:\Programing\C--Advanced2019\Maximum and Minimum Element\Maximum and Minimum Element\obj\Debug\netcoreapp3.1\Maximum and Minimum Element.pdb

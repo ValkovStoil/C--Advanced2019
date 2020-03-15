@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.exe
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.deps.json
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.runtimeconfig.json
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.dll
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\bin\Debug\netcoreapp3.1\Simple Text Editor.pdb
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.dll
+C:\Programing\C--Advanced2019\Simple Text Editor\Simple Text Editor\obj\Debug\netcoreapp3.1\Simple Text Editor.pdb

@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.exe
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.deps.json
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.runtimeconfig.json
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.dll
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\bin\Debug\netcoreapp3.1\Cups and Bottles.pdb
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.dll
+C:\Programing\C--Advanced2019\Cups and Bottles\Cups and Bottles\obj\Debug\netcoreapp3.1\Cups and Bottles.pdb

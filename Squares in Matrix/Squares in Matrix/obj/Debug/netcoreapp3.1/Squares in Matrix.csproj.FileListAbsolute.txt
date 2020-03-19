@@ -1,0 +1,10 @@
+C:\Programing\C--Advanced2019\Squares in Matrix\Squares in Matrix\bin\Debug\netcoreapp3.1\Squares in Matrix.exe
+C:\Programing\C--Advanced2019\Squares in Matrix\Squares in Matrix\bin\Debug\netcoreapp3.1\Squares in Matrix.deps.json
+C:\Programing\C--Advanced2019\Squares in Matrix\Squares in Matrix\bin\Debug\netcoreapp3.1\Squares in Matrix.runtimeconfig.json
+C:\Programing\C--Advanced2019\Squares in Matrix\Squares in Matrix\bin\Debug\netcoreapp3.1\Squares in Matrix.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Squares in Matrix\Squares in Matrix\bin\Debug\netcoreapp3.1\Squares in Matrix.dll
+C:\Programing\C--Advanced2019\Squares in Matrix\Squares in Matrix\bin\Debug\netcoreapp3.1\Squares in Matrix.pdb
+C:\Programing\C--Advanced2019\Squares in Matrix\Squares in Matrix\obj\Debug\netcoreapp3.1\Squares in Matrix.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Squares in Matrix\Squares in Matrix\obj\Debug\netcoreapp3.1\Squares in Matrix.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Squares in Matrix\Squares in Matrix\obj\Debug\netcoreapp3.1\Squares in Matrix.dll
+C:\Programing\C--Advanced2019\Squares in Matrix\Squares in Matrix\obj\Debug\netcoreapp3.1\Squares in Matrix.pdb

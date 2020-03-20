@@ -21,7 +21,7 @@ namespace Snake_Moves
 
             var matrix = new char[rows, columns];
 
-            //TODO
+            
             for (int row = 0; row < matrix.GetLength(0); row++)
             {
                 if (row % 2 == 0)

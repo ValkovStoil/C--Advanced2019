@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.exe
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.deps.json
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.runtimeconfig.json
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.dll
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\bin\Debug\netcoreapp3.1\Jagged Array Manipulator.pdb
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.dll
+C:\Programing\C--Advanced2019\Jagged Array Manipulator\Jagged Array Manipulator\obj\Debug\netcoreapp3.1\Jagged Array Manipulator.pdb

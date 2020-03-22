@@ -69,7 +69,7 @@ namespace Bombs
                 var row = bombRow + damageSpread[dmg];
                 var col = bombCol + damageSpread[dmg + 1];
 
-                if (IsInsideNotABomb(bombsMatrix, row, col) && bombsMatrix[row, col] > 0)
+                if (IsInsideNotA(bombsMatrix, row, col) && bombsMatrix[row, col] > 0)
                 {
                     bombsMatrix[row, col] -= bombsMatrix[bombRow, bombCol];
                 }
@@ -77,11 +77,10 @@ namespace Bombs
             }
         }
 
-        private static bool IsInsideNotABomb(int[,] bombsMatrix, int row, int col)
+        private static bool IsInsideNotA(int[,] bombsMatrix, int row, int col)
         {
             return row >= 0 && row < bombsMatrix.GetLength(0) &&
-                col >= 0 && col < bombsMatrix.GetLength(1) &&
-                !IsBomb(row, col);
+                col >= 0 && col < bombsMatrix.GetLength(1);
         }
 
         private static bool IsBomb(int row, int col)

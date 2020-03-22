@@ -4,7 +4,6 @@ namespace Knight_Game
 {
     class Program
     {
-        public static int removeKnight = 0;
         static void Main(string[] args)
         {
             var n = int.Parse(Console.ReadLine());
@@ -12,107 +11,96 @@ namespace Knight_Game
             var board = new char[n, n];
 
             InitializeBoard(board);
-            //TODO
+            
+            var removeKnights = 0;
+            var killerRow = 0;
+            var killerCol = 0;
 
-            for (int row = 0; row < board.GetLength(0) - 1; row++)
+            while (true)
             {
-                for (int col = 0; col < board.GetLength(1); col++)
-                {
-                    var isKnight = IsKnight(board[row, col]);
+                var maxAttacks = 0;
 
-                    //Horizontal check
-                    if (isKnight)
+                for (int row = 0; row < board.GetLength(0); row++)
+                {
+                    for (int col = 0; col < board.GetLength(1); col++)
                     {
-                        CheckHorizontal(row, col, board);
+                        int currentKnightsAttacks = 0;
+                        var isKnight = IsKnight(board[row, col]);
+                        if (isKnight)
+                        {
+
+                            if (IsInside(board, row - 2, col + 1) && IsKnight(board[row - 2, col + 1]))
+                            {
+                                currentKnightsAttacks++;
+                            }
+
+                            if (IsInside(board, row - 2, col - 1) && IsKnight(board[row - 2, col - 1]))
+                            {
+                                currentKnightsAttacks++;
+                            }
+
+                            if (IsInside(board, row - 1, col + 2) && IsKnight(board[row - 1, col + 2]))
+                            {
+                                currentKnightsAttacks++;
+                            }
+
+                            if (IsInside(board, row - 1, col - 2) && IsKnight(board[row - 1, col - 2]))
+                            {
+                                currentKnightsAttacks++;
+                            }
+
+                            if (IsInside(board, row + 1, col + 2) && IsKnight(board[row + 1, col + 2]))
+                            {
+                                currentKnightsAttacks++;
+                            }
+
+                            if (IsInside(board, row + 1, col - 2) && IsKnight(board[row + 1, col - 2]))
+                            {
+                                currentKnightsAttacks++;
+                            }
+
+                            if (IsInside(board, row + 2, col + 1) && IsKnight(board[row + 2, col + 1]))
+                            {
+                                currentKnightsAttacks++;
+                            }
+
+                            if (IsInside(board, row + 2, col - 1) && IsKnight(board[row + 2, col - 1]))
+                            {
+                                currentKnightsAttacks++;
+                            }
+                        }
+
+                        if (currentKnightsAttacks > maxAttacks)
+                        {
+                            maxAttacks = currentKnightsAttacks;
+                            killerRow = row;
+                            killerCol = col;
+                        }
                     }
-
-                    //Vertical check
-                    if (row < board.GetLength(0) - 1 && isKnight)
-                    {
-                        CheckVertical(row, col, board);
-                    }
                 }
-            }
-
-            Console.WriteLine(removeKnight);
-        }
-
-        private static void CheckHorizontal(int row, int col, char[,] board)
-        {
-            var isKnight = false;
-            if (row < board.GetLength(0) - 1)
-            {
-                if (col < board.GetLength(1) - 2)
+                if (maxAttacks > 0)
                 {
-                    isKnight = IsKnight(board[row + 1, col + 2]);
-                    if (isKnight)
-                    {
-                        board[row + 1, col + 2] = '0';
-                        removeKnight++;
-                    }
+                    board[killerRow, killerCol] = 'D';
+                    removeKnights++;
                 }
-                if (col > 1)
+                else
                 {
-                    isKnight = IsKnight(board[row + 1, col - 2]);
-                    if (isKnight)
-                    {
-                        board[row + 1, col - 2] = '0';
-                        removeKnight++;
-                    }
-                }
-            }
-        }
-
-        private static void CheckVertical(int row, int col, char[,] board)
-        {
-            var isKnight = false;
-            var lenght = 2;
-            if(board.GetLength(1) % 2 == 0)
-            {
-                lenght = 3;
-            }
-
-            if (col < board.GetLength(1) - 1 && col > 0 && row < board.GetLength(0) - lenght)
-            {
-                isKnight = IsKnight(board[row + 2, col + 1]);
-                if (isKnight)
-                {
-                    board[row + 2, col + 1] = '0';
-                    removeKnight++;
-                }
-
-                isKnight = IsKnight(board[row + 2, col - 1]);
-                if (isKnight)
-                {
-                    board[row + 2, col - 1] = '0';
-                    removeKnight++;
-                }
-
-            }
-            if (col == 0 && row < board.GetLength(0) - 2)
-            {
-                isKnight = IsKnight(board[row + 2, col + 1]);
-                if (isKnight)
-                {
-                    board[row + 2, col + 1] = '0';
-                    removeKnight++;
-                }
-            }
-            if (col == board.GetLength(1) - 1 && row < board.GetLength(0) - 2)
-            {
-                isKnight = IsKnight(board[row + 2, col - 1]);
-                if (isKnight)
-                {
-                    board[row + 2, col - 1] = '0';
-                    removeKnight++;
+                    Console.WriteLine(removeKnights);
+                    break;
                 }
             }
         }
 
-        private static bool IsKnight(char v)
+        private static bool IsInside(char[,] board, int row, int col)
         {
-            var k = 'K';
-            return k == v;
+            return row >= 0 && row < board.GetLength(0) && 
+                col >= 0 && col < board.GetLength(1);
+        }
+
+        private static bool IsKnight(char k)
+        {
+            
+            return k == 'K';
         }
 
         private static void InitializeBoard(char[,] board)

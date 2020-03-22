@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.exe
+C:\Programing\C--Advanced2019\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.deps.json
+C:\Programing\C--Advanced2019\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.json
+C:\Programing\C--Advanced2019\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.dll
+C:\Programing\C--Advanced2019\Bombs\Bombs\bin\Debug\netcoreapp3.1\Bombs.pdb
+C:\Programing\C--Advanced2019\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.dll
+C:\Programing\C--Advanced2019\Bombs\Bombs\obj\Debug\netcoreapp3.1\Bombs.pdb

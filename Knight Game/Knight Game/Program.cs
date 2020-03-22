@@ -11,7 +11,8 @@ namespace Knight_Game
             var board = new char[n, n];
 
             InitializeBoard(board);
-            
+
+            var knightMoves = new int[] { -2, 1, -2, -1, -1, 2, -1, -2, 1, 2, 1, -2, 2, 1, 2, -1 };
             var removeKnights = 0;
             var killerRow = 0;
             var killerCol = 0;
@@ -28,45 +29,16 @@ namespace Knight_Game
                         var isKnight = IsKnight(board[row, col]);
                         if (isKnight)
                         {
-
-                            if (IsKnightInside(board, row - 2, col + 1) && IsKnight(board[row - 2, col + 1]))
+                            for (int moves = 0; moves < knightMoves.Length; moves+=2)
                             {
-                                currentKnightsAttacks++;
-                            }
+                                var r = row + knightMoves[moves];
+                                var c = col + knightMoves[moves + 1];
+                                
+                                if(IsKnightInside(board, r, c))
+                                {
+                                    currentKnightsAttacks++;
+                                }
 
-                            if (IsKnightInside(board, row - 2, col - 1) && IsKnight(board[row - 2, col - 1]))
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            if (IsKnightInside(board, row - 1, col + 2) && IsKnight(board[row - 1, col + 2]))
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            if (IsKnightInside(board, row - 1, col - 2) && IsKnight(board[row - 1, col - 2]))
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            if (IsKnightInside(board, row + 1, col + 2) && IsKnight(board[row + 1, col + 2]))
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            if (IsKnightInside(board, row + 1, col - 2) && IsKnight(board[row + 1, col - 2]))
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            if (IsKnightInside(board, row + 2, col + 1) && IsKnight(board[row + 2, col + 1]))
-                            {
-                                currentKnightsAttacks++;
-                            }
-
-                            if (IsKnightInside(board, row + 2, col - 1) && IsKnight(board[row + 2, col - 1]))
-                            {
-                                currentKnightsAttacks++;
                             }
                         }
 

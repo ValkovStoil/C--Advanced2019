@@ -29,42 +29,42 @@ namespace Knight_Game
                         if (isKnight)
                         {
 
-                            if (IsInside(board, row - 2, col + 1) && IsKnight(board[row - 2, col + 1]))
+                            if (IsKnightInside(board, row - 2, col + 1) && IsKnight(board[row - 2, col + 1]))
                             {
                                 currentKnightsAttacks++;
                             }
 
-                            if (IsInside(board, row - 2, col - 1) && IsKnight(board[row - 2, col - 1]))
+                            if (IsKnightInside(board, row - 2, col - 1) && IsKnight(board[row - 2, col - 1]))
                             {
                                 currentKnightsAttacks++;
                             }
 
-                            if (IsInside(board, row - 1, col + 2) && IsKnight(board[row - 1, col + 2]))
+                            if (IsKnightInside(board, row - 1, col + 2) && IsKnight(board[row - 1, col + 2]))
                             {
                                 currentKnightsAttacks++;
                             }
 
-                            if (IsInside(board, row - 1, col - 2) && IsKnight(board[row - 1, col - 2]))
+                            if (IsKnightInside(board, row - 1, col - 2) && IsKnight(board[row - 1, col - 2]))
                             {
                                 currentKnightsAttacks++;
                             }
 
-                            if (IsInside(board, row + 1, col + 2) && IsKnight(board[row + 1, col + 2]))
+                            if (IsKnightInside(board, row + 1, col + 2) && IsKnight(board[row + 1, col + 2]))
                             {
                                 currentKnightsAttacks++;
                             }
 
-                            if (IsInside(board, row + 1, col - 2) && IsKnight(board[row + 1, col - 2]))
+                            if (IsKnightInside(board, row + 1, col - 2) && IsKnight(board[row + 1, col - 2]))
                             {
                                 currentKnightsAttacks++;
                             }
 
-                            if (IsInside(board, row + 2, col + 1) && IsKnight(board[row + 2, col + 1]))
+                            if (IsKnightInside(board, row + 2, col + 1) && IsKnight(board[row + 2, col + 1]))
                             {
                                 currentKnightsAttacks++;
                             }
 
-                            if (IsInside(board, row + 2, col - 1) && IsKnight(board[row + 2, col - 1]))
+                            if (IsKnightInside(board, row + 2, col - 1) && IsKnight(board[row + 2, col - 1]))
                             {
                                 currentKnightsAttacks++;
                             }
@@ -91,10 +91,11 @@ namespace Knight_Game
             }
         }
 
-        private static bool IsInside(char[,] board, int row, int col)
+        private static bool IsKnightInside(char[,] board, int row, int col)
         {
-            return row >= 0 && row < board.GetLength(0) && 
-                col >= 0 && col < board.GetLength(1);
+            return row >= 0 && row < board.GetLength(0) &&
+                col >= 0 && col < board.GetLength(1) &&
+                IsKnight(board[row, col]);
         }
 
         private static bool IsKnight(char k)

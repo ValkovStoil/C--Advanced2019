@@ -26,12 +26,16 @@ namespace Bombs
             {
                 var bombRow = bombsPossition[explode];
                 var bombCol = bombsPossition[explode + 1];
-                DamageDone(bombRow, bombCol);
-                bombsMatrix[bombRow, bombCol] = 0;
+
+                if (bombsMatrix[bombRow, bombCol] > 0)
+                {
+                    DamageDone(bombRow, bombCol);
+                    bombsMatrix[bombRow, bombCol] = 0;
+                }
 
             }
 
-            var sum = 0;
+            long sum = 0;
             var cellCount = 0;
             for (int row = 0; row < bombsMatrix.GetLength(0); row++)
             {
@@ -81,19 +85,6 @@ namespace Bombs
         {
             return row >= 0 && row < bombsMatrix.GetLength(0) &&
                 col >= 0 && col < bombsMatrix.GetLength(1);
-        }
-
-        private static bool IsBomb(int row, int col)
-        {
-            for (int bomb = 0; bomb < bombsPossition.Count(); bomb += 2)
-            {
-                if (row == bombsPossition[bomb] && col == bombsPossition[bomb + 1])
-                {
-                    return true;
-                }
-            }
-
-            return false;
         }
 
         private static void Initialaize(int[,] bombsMatrix)

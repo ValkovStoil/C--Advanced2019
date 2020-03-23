@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.exe
+C:\Programing\C--Advanced2019\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.deps.json
+C:\Programing\C--Advanced2019\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.runtimeconfig.json
+C:\Programing\C--Advanced2019\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.dll
+C:\Programing\C--Advanced2019\Miner\Miner\bin\Debug\netcoreapp3.1\Miner.pdb
+C:\Programing\C--Advanced2019\Miner\Miner\obj\Debug\netcoreapp3.1\Miner.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Miner\Miner\obj\Debug\netcoreapp3.1\Miner.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Miner\Miner\obj\Debug\netcoreapp3.1\Miner.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Miner\Miner\obj\Debug\netcoreapp3.1\Miner.dll
+C:\Programing\C--Advanced2019\Miner\Miner\obj\Debug\netcoreapp3.1\Miner.pdb

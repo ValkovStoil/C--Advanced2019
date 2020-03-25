@@ -11,8 +11,7 @@ namespace Radioactive_Mutant_Vampire_Bunnies
         public static int startCol = 0;
         public static int playerLastRow = 0;
         public static int playerLastCol = 0;
-        public static bool playerCollide = false;
-        public static bool bunniColliade = false;
+        public static bool isDead;
 
         static void Main(string[] args)
         {
@@ -26,10 +25,6 @@ namespace Radioactive_Mutant_Vampire_Bunnies
                 .ToLower()
                 .ToCharArray();
 
-            //Find the start position
-            StartingIndexes();
-
-            var playerInsideField = false;
 
             for (int moves = 0; moves < directions.Length; moves++)
             {
@@ -39,123 +34,59 @@ namespace Radioactive_Mutant_Vampire_Bunnies
                 switch (direction)
                 {
                     case 'u':
-                        playerInsideField = IsInside(startRow - 1, startCol);
-                        if (!playerInsideField)
-                        {
-                            playerLastRow = startRow;
-                            playerLastCol = startCol;
-                            break;
-                        }
-                        else
-                        {
-                            playerCollide = IsCollide(startRow - 1, startCol);
-                        }
-                        fieldMatrix[startRow, startCol] = '.';
-                        startRow -= 1;
-
-                        if (playerCollide)
-                        {
-                            break;
-                        }
+                        Move(-1, 0);
                         break;
                     case 'd':
-                        playerInsideField = IsInside(startRow + 1, startCol);
-                        if (!playerInsideField)
-                        {
-                            playerLastRow = startRow;
-                            playerLastCol = startCol;
-                            break;
-                        }
-                        else
-                        {
-                            playerCollide = IsCollide(startRow + 1, startCol);
-                        }
-                        fieldMatrix[startRow, startCol] = '.';
-                        startRow += 1;
-
-                        if (playerCollide)
-                        {
-                            break;
-                        }
+                        Move(1, 0);
                         break;
                     case 'l':
-                        playerInsideField = IsInside(startRow, startCol - 1);
-                        if (!playerInsideField)
-                        {
-                            playerLastRow = startRow;
-                            playerLastCol = startCol;
-                            break;
-                        }
-                        else
-                        {
-                            playerCollide = IsCollide(startRow, startCol - 1);
-                        }
-                        fieldMatrix[startRow, startCol] = '.';
-                        startCol -= 1;
-
-                        if (playerCollide)
-                        {
-                            break;
-                        }
+                        Move(0, -1);
                         break;
                     case 'r':
-                        playerInsideField = IsInside(startRow, startCol + 1);
-                        if (!playerInsideField)
-                        {
-                            playerLastRow = startRow;
-                            playerLastCol = startCol;
-                            break;
-                        }
-                        else
-                        {
-                            playerCollide = IsCollide(startRow, startCol + 1);
-                        }
-                        fieldMatrix[startRow, startCol] = '.';
-                        startCol += 1;
-
-                        if (playerCollide)
-                        {
-                            break;
-                        }
+                        Move(0, 1);
                         break;
                 }
 
-                //player win the game
-                if (!playerInsideField)
-                {
-                    BunnySpred();
-                    PrintMatrix();
-                    Console.WriteLine($"won: {startRow} {startCol}");
-                    return;
-                }
+                BunniSpred();
 
-                if (playerCollide)
+                if (isDead)
                 {
-                    BunnySpred();
                     PrintMatrix();
-                    Console.WriteLine($"dead: {startRow} {startCol}");
-                    return;
+                    Console.WriteLine($"dead: {playerLastRow} {playerLastCol}");
+                    Environment.Exit(0);
                 }
-
-                if(bunniColliade)
-                {
-                    BunnySpred();
-                    PrintMatrix();
-                    Console.WriteLine($"dead: {startRow} {startCol}");
-                    return;
-                }
-                BunnySpred();
-
             }
 
         }
 
-        private static bool IsCollide(int row, int col)
+        private static void Move(int row, int col)
         {
-            return fieldMatrix[row, col] == 'B';
+            if (!IsInside(startRow + row, startCol + col))
+            {
+                fieldMatrix[startRow, startCol] = '.';
+                BunniSpred();
+                PrintMatrix();
+                Console.WriteLine($"won: {startRow} {startCol}");
+                Environment.Exit(0);
+            }
+
+            if (fieldMatrix[startRow + row, startCol + col] == 'B')
+            {
+                BunniSpred();
+                PrintMatrix();
+                Console.WriteLine($"dead: {startRow + row} {startCol + col}");
+                Environment.Exit(0);
+            }
+
+            fieldMatrix[startRow, startCol] = '.';
+
+            startRow += row;
+            startCol += col;
+
+            fieldMatrix[startRow, startCol] = 'P';
         }
 
-        private static void BunnySpred()
+        private static void BunniSpred()
         {
             var bunniSpreadCoordinates = new Queue<Bunnies>();
             var bunniJumpTo = new Bunnies();
@@ -210,20 +141,16 @@ namespace Radioactive_Mutant_Vampire_Bunnies
             while (bunniSpreadCoordinates.Count != 0)
             {
                 var bunni = bunniSpreadCoordinates.Dequeue();
-                bunniColliade = IsHitingPlayer(bunni.row, bunni.col);
 
-                if (bunniColliade)
+                if(fieldMatrix[bunni.row,bunni.col] == 'P')
                 {
-                    startRow = bunni.row;
-                    startCol = bunni.col;
+                    isDead = true;
+                    playerLastRow = bunni.row;
+                    playerLastCol = bunni.col;
                 }
+
                 fieldMatrix[bunni.row, bunni.col] = 'B';
             }
-        }
-
-        private static bool IsHitingPlayer(int row, int col)
-        {
-            return fieldMatrix[row, col] == 'P';
         }
 
         private static void PrintMatrix()
@@ -244,21 +171,6 @@ namespace Radioactive_Mutant_Vampire_Bunnies
                 col >= 0 && col < fieldMatrix.GetLength(1);
         }
 
-        private static void StartingIndexes()
-        {
-            for (int row = 0; row < fieldMatrix.GetLength(0); row++)
-            {
-                for (int col = 0; col < fieldMatrix.GetLength(1); col++)
-                {
-                    if (fieldMatrix[row, col] == 'P')
-                    {
-                        startRow = row;
-                        startCol = col;
-                    }
-                }
-            }
-        }
-
         private static void Initialize(int[] dimensions)
         {
             fieldMatrix = new char[dimensions[0], dimensions[1]];
@@ -269,6 +181,12 @@ namespace Radioactive_Mutant_Vampire_Bunnies
                 for (int col = 0; col < fieldMatrix.GetLength(1); col++)
                 {
                     fieldMatrix[row, col] = input[col];
+
+                    if(fieldMatrix[row,col] == 'P')
+                    {
+                        startRow = row;
+                        startCol = col;
+                    }
                 }
             }
         }

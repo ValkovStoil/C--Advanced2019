@@ -15,19 +15,22 @@ namespace Wardrobe
             for (int i = 0; i < n; i++)
             {
                 var clothsAndColors = Console.ReadLine()
-                    .Split(" ,".ToCharArray(),StringSplitOptions.RemoveEmptyEntries)
+                    .Split(" -> ")
                     .ToArray();
 
                 var color = clothsAndColors[0];
+                var clothes = clothsAndColors[1]
+                    .Split(",", StringSplitOptions.RemoveEmptyEntries)
+                    .ToArray();
 
                 if (!wardrobe.ContainsKey(color))
                 {
                     wardrobe[color] = new Dictionary<string, int>();
                 }
 
-                for (int c = 2; c < clothsAndColors.Length; c++)
+                foreach (var dress in clothes)
                 {
-                    var dress = clothsAndColors[c];
+
                     if (!wardrobe[color].ContainsKey(dress))
                     {
                         wardrobe[color][dress] = 0;
@@ -37,7 +40,7 @@ namespace Wardrobe
             }
 
             var choiceOfClothes = Console.ReadLine()
-                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
+                .Split(" ")
                 .ToArray();
 
             var colors = choiceOfClothes[0];

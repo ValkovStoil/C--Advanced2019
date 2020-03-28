@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Ranking\Ranking\obj\Debug\netcoreapp3.1\Ranking.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Ranking\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Ranking\Ranking\obj\Debug\netcoreapp3.1\Ranking.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Ranking\Ranking\bin\Debug\netcoreapp3.1\Ranking.exe
+C:\Programing\C--Advanced2019\Ranking\Ranking\bin\Debug\netcoreapp3.1\Ranking.deps.json
+C:\Programing\C--Advanced2019\Ranking\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.json
+C:\Programing\C--Advanced2019\Ranking\Ranking\bin\Debug\netcoreapp3.1\Ranking.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Ranking\Ranking\bin\Debug\netcoreapp3.1\Ranking.dll
+C:\Programing\C--Advanced2019\Ranking\Ranking\bin\Debug\netcoreapp3.1\Ranking.pdb
+C:\Programing\C--Advanced2019\Ranking\Ranking\obj\Debug\netcoreapp3.1\Ranking.dll
+C:\Programing\C--Advanced2019\Ranking\Ranking\obj\Debug\netcoreapp3.1\Ranking.pdb

@@ -1,0 +1,12 @@
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.exe
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.deps.json
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.runtimeconfig.json
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.dll
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\bin\Debug\netcoreapp3.1\Odd Lines.pdb
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.dll
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\obj\Debug\netcoreapp3.1\Odd Lines.pdb
+C:\Programing\C--Advanced2019\Odd Lines\Odd Lines\bin\Debug\netcoreapp3.1\Lines.txt

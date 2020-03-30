@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\bin\Debug\netcoreapp3.1\Merge Files.exe
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\bin\Debug\netcoreapp3.1\input1.txt
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\bin\Debug\netcoreapp3.1\input2.txt
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\bin\Debug\netcoreapp3.1\Merge Files.deps.json
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\bin\Debug\netcoreapp3.1\Merge Files.runtimeconfig.json
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\bin\Debug\netcoreapp3.1\Merge Files.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\bin\Debug\netcoreapp3.1\Merge Files.dll
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\bin\Debug\netcoreapp3.1\Merge Files.pdb
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\obj\Debug\netcoreapp3.1\Merge Files.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\obj\Debug\netcoreapp3.1\Merge Files.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\obj\Debug\netcoreapp3.1\Merge Files.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\obj\Debug\netcoreapp3.1\Merge Files.dll
+C:\Programing\C--Advanced2019\Merge Files\Merge Files\obj\Debug\netcoreapp3.1\Merge Files.pdb

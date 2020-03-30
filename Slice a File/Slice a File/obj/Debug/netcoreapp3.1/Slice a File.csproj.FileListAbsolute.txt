@@ -1,0 +1,12 @@
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.exe
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\bin\Debug\netcoreapp3.1\input.txt
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.deps.json
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.runtimeconfig.json
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.dll
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\bin\Debug\netcoreapp3.1\Slice a File.pdb
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.dll
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.pdb
+C:\Programing\C--Advanced2019\Slice a File\Slice a File\obj\Debug\netcoreapp3.1\Slice a File.csprojAssemblyReference.cache

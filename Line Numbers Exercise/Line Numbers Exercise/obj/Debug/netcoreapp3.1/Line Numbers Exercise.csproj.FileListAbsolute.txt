@@ -1,0 +1,12 @@
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\bin\Debug\netcoreapp3.1\Line Numbers Exercise.exe
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\bin\Debug\netcoreapp3.1\text.txt
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\bin\Debug\netcoreapp3.1\Line Numbers Exercise.deps.json
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\bin\Debug\netcoreapp3.1\Line Numbers Exercise.runtimeconfig.json
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\bin\Debug\netcoreapp3.1\Line Numbers Exercise.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\bin\Debug\netcoreapp3.1\Line Numbers Exercise.dll
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\bin\Debug\netcoreapp3.1\Line Numbers Exercise.pdb
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\obj\Debug\netcoreapp3.1\Line Numbers Exercise.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\obj\Debug\netcoreapp3.1\Line Numbers Exercise.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\obj\Debug\netcoreapp3.1\Line Numbers Exercise.dll
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\obj\Debug\netcoreapp3.1\Line Numbers Exercise.pdb
+C:\Programing\C--Advanced2019\Line Numbers Exercise\Line Numbers Exercise\obj\Debug\netcoreapp3.1\Line Numbers Exercise.csprojAssemblyReference.cache

@@ -1,0 +1,12 @@
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\bin\Debug\netcoreapp3.1\Even Lines.exe
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\bin\Debug\netcoreapp3.1\text.txt
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\bin\Debug\netcoreapp3.1\Even Lines.deps.json
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\bin\Debug\netcoreapp3.1\Even Lines.runtimeconfig.json
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\bin\Debug\netcoreapp3.1\Even Lines.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\bin\Debug\netcoreapp3.1\Even Lines.dll
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\bin\Debug\netcoreapp3.1\Even Lines.pdb
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\obj\Debug\netcoreapp3.1\Even Lines.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\obj\Debug\netcoreapp3.1\Even Lines.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\obj\Debug\netcoreapp3.1\Even Lines.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\obj\Debug\netcoreapp3.1\Even Lines.dll
+C:\Programing\C--Advanced2019\Even Lines\Even Lines\obj\Debug\netcoreapp3.1\Even Lines.pdb

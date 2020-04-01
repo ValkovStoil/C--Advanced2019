@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\bin\Debug\netcoreapp3.1\Word Count Exercise.exe
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\bin\Debug\netcoreapp3.1\Word Count Exercise.deps.json
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\bin\Debug\netcoreapp3.1\Word Count Exercise.runtimeconfig.json
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\bin\Debug\netcoreapp3.1\Word Count Exercise.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\bin\Debug\netcoreapp3.1\Word Count Exercise.dll
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\bin\Debug\netcoreapp3.1\Word Count Exercise.pdb
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\obj\Debug\netcoreapp3.1\Word Count Exercise.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\obj\Debug\netcoreapp3.1\Word Count Exercise.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\obj\Debug\netcoreapp3.1\Word Count Exercise.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\obj\Debug\netcoreapp3.1\Word Count Exercise.dll
+C:\Programing\C--Advanced2019\Word Count Exercise\Word Count Exercise\obj\Debug\netcoreapp3.1\Word Count Exercise.pdb

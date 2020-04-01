@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.exe
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.deps.json
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.runtimeconfig.json
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.dll
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\bin\Debug\netcoreapp3.1\Copy Binary File.pdb
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.dll
+C:\Programing\C--Advanced2019\Copy Binary File\Copy Binary File\obj\Debug\netcoreapp3.1\Copy Binary File.pdb

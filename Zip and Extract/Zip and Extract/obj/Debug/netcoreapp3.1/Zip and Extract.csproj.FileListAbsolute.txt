@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\bin\Debug\netcoreapp3.1\Zip and Extract.exe
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\bin\Debug\netcoreapp3.1\Zip and Extract.deps.json
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\bin\Debug\netcoreapp3.1\Zip and Extract.runtimeconfig.json
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\bin\Debug\netcoreapp3.1\Zip and Extract.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\bin\Debug\netcoreapp3.1\Zip and Extract.dll
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\bin\Debug\netcoreapp3.1\Zip and Extract.pdb
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\obj\Debug\netcoreapp3.1\Zip and Extract.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\obj\Debug\netcoreapp3.1\Zip and Extract.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\obj\Debug\netcoreapp3.1\Zip and Extract.dll
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\obj\Debug\netcoreapp3.1\Zip and Extract.pdb
+C:\Programing\C--Advanced2019\Zip and Extract\Zip and Extract\obj\Debug\netcoreapp3.1\Zip and Extract.csprojAssemblyReference.cache

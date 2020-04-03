@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.exe
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.deps.json
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.runtimeconfig.json
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.dll
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\bin\Debug\netcoreapp3.1\Sort Even Numbers.pdb
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.dll
+C:\Programing\C--Advanced2019\Sort Even Numbers\Sort Even Numbers\obj\Debug\netcoreapp3.1\Sort Even Numbers.pdb

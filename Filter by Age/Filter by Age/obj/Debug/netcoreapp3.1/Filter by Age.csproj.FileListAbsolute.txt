@@ -1,0 +1,11 @@
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\bin\Debug\netcoreapp3.1\Filter by Age.exe
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\bin\Debug\netcoreapp3.1\Filter by Age.deps.json
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\bin\Debug\netcoreapp3.1\Filter by Age.runtimeconfig.json
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\bin\Debug\netcoreapp3.1\Filter by Age.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\bin\Debug\netcoreapp3.1\Filter by Age.dll
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\bin\Debug\netcoreapp3.1\Filter by Age.pdb
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\obj\Debug\netcoreapp3.1\Filter by Age.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\obj\Debug\netcoreapp3.1\Filter by Age.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\obj\Debug\netcoreapp3.1\Filter by Age.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\obj\Debug\netcoreapp3.1\Filter by Age.dll
+C:\Programing\C--Advanced2019\Filter by Age\Filter by Age\obj\Debug\netcoreapp3.1\Filter by Age.pdb

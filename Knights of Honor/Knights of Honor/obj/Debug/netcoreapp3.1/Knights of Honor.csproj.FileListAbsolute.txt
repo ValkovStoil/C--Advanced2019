@@ -1,0 +1,10 @@
+C:\Programing\C--Advanced2019\Knights of Honor\Knights of Honor\bin\Debug\netcoreapp3.1\Knights of Honor.exe
+C:\Programing\C--Advanced2019\Knights of Honor\Knights of Honor\bin\Debug\netcoreapp3.1\Knights of Honor.deps.json
+C:\Programing\C--Advanced2019\Knights of Honor\Knights of Honor\bin\Debug\netcoreapp3.1\Knights of Honor.runtimeconfig.json
+C:\Programing\C--Advanced2019\Knights of Honor\Knights of Honor\bin\Debug\netcoreapp3.1\Knights of Honor.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Knights of Honor\Knights of Honor\bin\Debug\netcoreapp3.1\Knights of Honor.dll
+C:\Programing\C--Advanced2019\Knights of Honor\Knights of Honor\bin\Debug\netcoreapp3.1\Knights of Honor.pdb
+C:\Programing\C--Advanced2019\Knights of Honor\Knights of Honor\obj\Debug\netcoreapp3.1\Knights of Honor.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Knights of Honor\Knights of Honor\obj\Debug\netcoreapp3.1\Knights of Honor.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Knights of Honor\Knights of Honor\obj\Debug\netcoreapp3.1\Knights of Honor.dll
+C:\Programing\C--Advanced2019\Knights of Honor\Knights of Honor\obj\Debug\netcoreapp3.1\Knights of Honor.pdb

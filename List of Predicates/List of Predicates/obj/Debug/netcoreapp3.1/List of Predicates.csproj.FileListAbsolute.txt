@@ -1,0 +1,10 @@
+C:\Programing\C--Advanced2019\List of Predicates\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.exe
+C:\Programing\C--Advanced2019\List of Predicates\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.deps.json
+C:\Programing\C--Advanced2019\List of Predicates\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.runtimeconfig.json
+C:\Programing\C--Advanced2019\List of Predicates\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\List of Predicates\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.dll
+C:\Programing\C--Advanced2019\List of Predicates\List of Predicates\bin\Debug\netcoreapp3.1\List of Predicates.pdb
+C:\Programing\C--Advanced2019\List of Predicates\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\List of Predicates\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\List of Predicates\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.dll
+C:\Programing\C--Advanced2019\List of Predicates\List of Predicates\obj\Debug\netcoreapp3.1\List of Predicates.pdb

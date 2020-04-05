@@ -1,0 +1,10 @@
+C:\Programing\C--Advanced2019\Predicate for Names\Predicate for Names\bin\Debug\netcoreapp3.1\Predicate for Names.exe
+C:\Programing\C--Advanced2019\Predicate for Names\Predicate for Names\bin\Debug\netcoreapp3.1\Predicate for Names.deps.json
+C:\Programing\C--Advanced2019\Predicate for Names\Predicate for Names\bin\Debug\netcoreapp3.1\Predicate for Names.runtimeconfig.json
+C:\Programing\C--Advanced2019\Predicate for Names\Predicate for Names\bin\Debug\netcoreapp3.1\Predicate for Names.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Predicate for Names\Predicate for Names\bin\Debug\netcoreapp3.1\Predicate for Names.dll
+C:\Programing\C--Advanced2019\Predicate for Names\Predicate for Names\bin\Debug\netcoreapp3.1\Predicate for Names.pdb
+C:\Programing\C--Advanced2019\Predicate for Names\Predicate for Names\obj\Debug\netcoreapp3.1\Predicate for Names.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Predicate for Names\Predicate for Names\obj\Debug\netcoreapp3.1\Predicate for Names.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Predicate for Names\Predicate for Names\obj\Debug\netcoreapp3.1\Predicate for Names.dll
+C:\Programing\C--Advanced2019\Predicate for Names\Predicate for Names\obj\Debug\netcoreapp3.1\Predicate for Names.pdb

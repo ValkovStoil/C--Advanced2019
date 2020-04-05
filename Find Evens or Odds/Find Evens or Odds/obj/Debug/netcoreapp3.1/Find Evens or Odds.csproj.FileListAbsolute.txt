@@ -1,0 +1,10 @@
+C:\Programing\C--Advanced2019\Find Evens or Odds\Find Evens or Odds\bin\Debug\netcoreapp3.1\Find Evens or Odds.exe
+C:\Programing\C--Advanced2019\Find Evens or Odds\Find Evens or Odds\bin\Debug\netcoreapp3.1\Find Evens or Odds.deps.json
+C:\Programing\C--Advanced2019\Find Evens or Odds\Find Evens or Odds\bin\Debug\netcoreapp3.1\Find Evens or Odds.runtimeconfig.json
+C:\Programing\C--Advanced2019\Find Evens or Odds\Find Evens or Odds\bin\Debug\netcoreapp3.1\Find Evens or Odds.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Find Evens or Odds\Find Evens or Odds\bin\Debug\netcoreapp3.1\Find Evens or Odds.dll
+C:\Programing\C--Advanced2019\Find Evens or Odds\Find Evens or Odds\bin\Debug\netcoreapp3.1\Find Evens or Odds.pdb
+C:\Programing\C--Advanced2019\Find Evens or Odds\Find Evens or Odds\obj\Debug\netcoreapp3.1\Find Evens or Odds.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Find Evens or Odds\Find Evens or Odds\obj\Debug\netcoreapp3.1\Find Evens or Odds.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Find Evens or Odds\Find Evens or Odds\obj\Debug\netcoreapp3.1\Find Evens or Odds.dll
+C:\Programing\C--Advanced2019\Find Evens or Odds\Find Evens or Odds\obj\Debug\netcoreapp3.1\Find Evens or Odds.pdb

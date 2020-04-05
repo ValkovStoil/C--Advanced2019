@@ -1,0 +1,10 @@
+C:\Programing\C--Advanced2019\Reverse and Exclude\Reverse and Exclude\bin\Debug\netcoreapp3.1\Reverse and Exclude.exe
+C:\Programing\C--Advanced2019\Reverse and Exclude\Reverse and Exclude\bin\Debug\netcoreapp3.1\Reverse and Exclude.deps.json
+C:\Programing\C--Advanced2019\Reverse and Exclude\Reverse and Exclude\bin\Debug\netcoreapp3.1\Reverse and Exclude.runtimeconfig.json
+C:\Programing\C--Advanced2019\Reverse and Exclude\Reverse and Exclude\bin\Debug\netcoreapp3.1\Reverse and Exclude.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Reverse and Exclude\Reverse and Exclude\bin\Debug\netcoreapp3.1\Reverse and Exclude.dll
+C:\Programing\C--Advanced2019\Reverse and Exclude\Reverse and Exclude\bin\Debug\netcoreapp3.1\Reverse and Exclude.pdb
+C:\Programing\C--Advanced2019\Reverse and Exclude\Reverse and Exclude\obj\Debug\netcoreapp3.1\Reverse and Exclude.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Reverse and Exclude\Reverse and Exclude\obj\Debug\netcoreapp3.1\Reverse and Exclude.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Reverse and Exclude\Reverse and Exclude\obj\Debug\netcoreapp3.1\Reverse and Exclude.dll
+C:\Programing\C--Advanced2019\Reverse and Exclude\Reverse and Exclude\obj\Debug\netcoreapp3.1\Reverse and Exclude.pdb

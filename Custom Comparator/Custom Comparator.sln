@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29806.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Custom Comparator", "Custom Comparator\Custom Comparator.csproj", "{11628089-8DC0-49DF-A6D0-C6BD94EB2566}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{11628089-8DC0-49DF-A6D0-C6BD94EB2566}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11628089-8DC0-49DF-A6D0-C6BD94EB2566}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11628089-8DC0-49DF-A6D0-C6BD94EB2566}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11628089-8DC0-49DF-A6D0-C6BD94EB2566}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6AC111C9-CF85-4A71-820F-5B837B87D170}
+	EndGlobalSection
+EndGlobal

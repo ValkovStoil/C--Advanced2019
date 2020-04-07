@@ -38,8 +38,12 @@ namespace Predicate_Party
                                 doubleNames.Add(guest);
                             }
                         }
-
-                        guests.AddRange(doubleNames);
+                        
+                        foreach (var currentName in doubleNames)
+                        {
+                            var index = guests.IndexOf(currentName);
+                            guests.Insert(index, currentName);
+                        }
 
                         break;
                     case "remove":
@@ -67,10 +71,9 @@ namespace Predicate_Party
                 command = Console.ReadLine();
             }
 
-            var names = guests.OrderBy(x => x);
-            if (names.Count() > 0)
+            if (guests.Count() > 0)
             {
-                Console.WriteLine($"{string.Join(", ", names)} are going to the party!");
+                Console.WriteLine($"{string.Join(", ", guests)} are going to the party!");
             }
             else
             {
@@ -88,7 +91,7 @@ namespace Predicate_Party
             {
                 return word.EndsWith(parameter);
             }
-            else if( condition == "Length")
+            else if (condition == "Length")
             {
                 return word.Length == int.Parse(parameter);
             }

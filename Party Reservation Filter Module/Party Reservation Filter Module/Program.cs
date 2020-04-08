@@ -14,6 +14,12 @@ namespace Party_Reservation_Filter_Module
 
             var input = Console.ReadLine();
 
+            Func<string, string, bool> startsWithFunc = (a, b) => a.StartsWith(b);
+            Func<string, string, bool> endsWithFunc = (a, b) => a.EndsWith(b);
+            Func<string, string, bool> containsFunc = (a, b) => a.Contains(b);
+            Func<string, int, bool> lengthFunc = (a, b) => a.Length == b;
+
+
             var filters = new List<string>();
 
             while (input != "Print")
@@ -24,7 +30,7 @@ namespace Party_Reservation_Filter_Module
 
                 var commnad = filterCommnads[0];
                 var filterType = filterCommnads[1];
-                var parameter = filterType[2];
+                var parameter = filterCommnads[2];
 
                 var filterString = $"{filterType}/{parameter}";
 
@@ -43,7 +49,33 @@ namespace Party_Reservation_Filter_Module
                 input = Console.ReadLine();
             }
 
-            //TODO Filter the guests
+            
+            foreach (var filter in filters)
+            {
+                var commnads = filter.Split("/");
+                var filterTyper = commnads[0];
+                var filterParam = commnads[1];
+
+
+                if(filterTyper == "Starts with")
+                {
+                    guests = guests.Where(g => !startsWithFunc(g, filterParam)).ToList();
+                }
+                else if(filterTyper == "Ends with")
+                {
+                    guests = guests.Where(g => !endsWithFunc(g, filterParam)).ToList();
+                }
+                else if (filterTyper == "Length")
+                {
+                    guests = guests.Where(g => !lengthFunc(g, int.Parse(filterParam))).ToList();
+                }
+                else if(filterTyper == "Contains")
+                {
+                    guests = guests.Where(g => !containsFunc(g, filterParam)).ToList();
+                }
+            }
+
+            Console.WriteLine(string.Join(" ",guests));
         }
     }
 }

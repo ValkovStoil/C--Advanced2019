@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.exe
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.deps.json
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.json
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.dll
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\bin\Debug\netcoreapp3.1\TriFunction.pdb
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.dll
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.pdb
+C:\Programing\C--Advanced2019\TriFunction\TriFunction\obj\Debug\netcoreapp3.1\TriFunction.genruntimeconfig.cache

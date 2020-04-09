@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Car\Car\bin\Debug\netcoreapp3.1\CarManufacturer.exe
+C:\Programing\C--Advanced2019\Car\Car\bin\Debug\netcoreapp3.1\CarManufacturer.deps.json
+C:\Programing\C--Advanced2019\Car\Car\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.json
+C:\Programing\C--Advanced2019\Car\Car\bin\Debug\netcoreapp3.1\CarManufacturer.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Car\Car\bin\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Programing\C--Advanced2019\Car\Car\bin\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Programing\C--Advanced2019\Car\Car\obj\Debug\netcoreapp3.1\CarManufacturer.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Car\Car\obj\Debug\netcoreapp3.1\CarManufacturer.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Car\Car\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Car\Car\obj\Debug\netcoreapp3.1\CarManufacturer.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Car\Car\obj\Debug\netcoreapp3.1\CarManufacturer.dll
+C:\Programing\C--Advanced2019\Car\Car\obj\Debug\netcoreapp3.1\CarManufacturer.pdb
+C:\Programing\C--Advanced2019\Car\Car\obj\Debug\netcoreapp3.1\CarManufacturer.genruntimeconfig.cache

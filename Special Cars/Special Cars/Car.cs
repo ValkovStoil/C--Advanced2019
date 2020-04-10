@@ -10,14 +10,14 @@ namespace Special_Cars
         string model = "Golf";
         int year = 2025;
         double fuelQuantity = 200;
-        double fuelConsumntion = 10;
+        double fuelConsumtion = 10;
         public Car()
         {
             this.Make = this.make;
             this.Model = this.model;
             this.Year = this.year;
             this.FuelQuantity = this.fuelQuantity;
-            this.FuelConsumption = this.fuelConsumntion;
+            this.FuelConsumption = this.fuelConsumtion;
         }
 
         public Car(string make, string model, int year)
@@ -29,7 +29,7 @@ namespace Special_Cars
         public Car(string make, string model, int year, double fuelQuantity, double fuelConsumtion) : this(make, model, year)
         {
             this.FuelQuantity = fuelQuantity;
-            this.FuelConsumption = fuelConsumntion;
+            this.FuelConsumption = fuelConsumtion;
         }
 
         public Car(string make, string model, int year, double fuelQuantity, double fuelConsumtion, Engine engine, Tire[] tires)
@@ -51,7 +51,7 @@ namespace Special_Cars
 
         public void Drive(double distance)
         {
-            var moveDistance = distance * this.FuelConsumption;
+            var moveDistance = distance * this.FuelConsumption / 100;
 
             if (this.FuelQuantity - moveDistance > 0)
             {

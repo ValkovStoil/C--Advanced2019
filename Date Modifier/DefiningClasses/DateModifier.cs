@@ -4,7 +4,7 @@ using System.Text;
 
 namespace DefiningClasses
 {
-    class DateModifier
+    public class DateModifier
     {
         private string dateOne;
         private string dateTwo;

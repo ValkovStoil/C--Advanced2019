@@ -2,9 +2,9 @@
 
 namespace DefiningClasses
 {
-    class StartUp
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var dateOne = Console.ReadLine();
             var dateTwo = Console.ReadLine();

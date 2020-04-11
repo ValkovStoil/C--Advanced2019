@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "CyeXF2SUczcca4y03ehFESHZ0ssJxTn0uzz5542rC1k4EIA2ao+yX/ZNG5cQPSP1vsisBNqqh2s/sjKPEnxLcg==",
+  "dgSpecHash": "AuNeTlEMdvCaTACGSeYaMkT96n4ni9mJDkseKKN0LBdjnRDBPdGHGmb0pSAJUpiXmqbTKQcFTZfpzbQ6thpaBw==",
   "success": true,
   "projectFilePath": "C:\\Programing\\C--Advanced2019\\Creating Constructors\\DefiningClasses\\DefiningClasses.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

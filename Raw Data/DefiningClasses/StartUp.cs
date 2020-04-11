@@ -4,9 +4,9 @@ using System.Linq;
 
 namespace DefiningClasses
 {
-    class StartUp
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
             var n = int.Parse(Console.ReadLine());
             var cars = new List<Car>();
@@ -46,7 +46,7 @@ namespace DefiningClasses
             {
                 cars = cars
                      .Where(car => car.Cargo.CargoType == "fragile")
-                     .Where(car => (car.Tires.Sum(p => p.Pressure) / 4 < 1))
+                     .Where(car => (car.Tires.Any(p=>p.Pressure < 1)))
                      .ToList();
 
                 foreach (var car in cars)

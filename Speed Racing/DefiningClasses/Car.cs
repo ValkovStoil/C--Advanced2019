@@ -29,7 +29,7 @@ namespace DefiningClasses
         {
             var moveDistance = distance * this.FuelConsumptionPerKilometer;
 
-            if (this.FuelAmount - moveDistance > 0)
+            if (this.FuelAmount >= moveDistance)
             {
                 this.FuelAmount -= moveDistance;
                 this.TravelledDistance += distance;

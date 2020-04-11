@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "6YkeDSyPhbdYL2/t6Y6tAueD8kxSbT6ockRVVGDkfu++BBDsq+t0l4/4lj1aIHDF7Uib/JjeUqXKRTheZE4/0A==",
+  "dgSpecHash": "rZD3gFIn0ZJGW0hhWE6RzCUTokuUr8UoJ2cJe2KoliXXFgCtE88hc4l1W3mvwDsiox25nQ/OJV9onpdMflvPLg==",
   "success": true,
   "projectFilePath": "C:\\Programing\\C--Advanced2019\\Raw Data\\DefiningClasses\\DefiningClasses.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

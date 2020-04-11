@@ -1,22 +1,16 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 
 namespace DefiningClasses
 {
-    class StartUp
+    public class StartUp
     {
-        static void Main(string[] args)
+        public static void Main(string[] args)
         {
-            //            2
-            //AudiA4 23 0.3
-            //BMW-M2 45 0.42
-            //Drive BMW-M2 56
-            //Drive AudiA4 5
-            //Drive AudiA4 13
-            //End
 
             var n = int.Parse(Console.ReadLine());
-            var cars = new HashSet<Car>();
+            var cars = new List<Car>();
 
             for (int i = 0; i < n; i++)
             {
@@ -28,10 +22,14 @@ namespace DefiningClasses
                 var consumptionPerKilometer = double.Parse(carInfo[2]);
 
                 var car = new Car(model, fuelAmount, consumptionPerKilometer);
+
                 cars.Add(car);
+
             }
 
             var command = Console.ReadLine();
+
+            cars = cars.Distinct().ToList();
 
             while (command != "End")
             {

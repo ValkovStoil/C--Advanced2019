@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "BCmW+In1f24COg+2Ym3y/09CBbsPX6CXbs2/4QFMZlQ4El56Tp5oPYUkNVuTKoYn+V5fvpRmj4cVw8zcAWi5YA==",
+  "dgSpecHash": "Kxrlae2NwyffNFTDVfB61fAL+otO9NR4jjvDPXB2dNtBtkSOxlRxtb6CW+BlQUG4lz8qpdAmz/XId20B50SC8A==",
   "success": true,
   "projectFilePath": "C:\\Programing\\C--Advanced2019\\Speed Racing\\DefiningClasses\\DefiningClasses.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
   "logs": []
 }

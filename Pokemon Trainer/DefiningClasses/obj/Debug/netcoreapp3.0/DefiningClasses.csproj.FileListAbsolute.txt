@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.exe
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.deps.json
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.json
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.dll
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\bin\Debug\netcoreapp3.0\DefiningClasses.pdb
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.dll
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.pdb
+C:\Programing\C--Advanced2019\Pokemon Trainer\DefiningClasses\obj\Debug\netcoreapp3.0\DefiningClasses.genruntimeconfig.cache

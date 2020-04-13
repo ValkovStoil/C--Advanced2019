@@ -1,0 +1,12 @@
+C:\Programing\C--Advanced2019\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.deps.json
+C:\Programing\C--Advanced2019\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.json
+C:\Programing\C--Advanced2019\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.dll
+C:\Programing\C--Advanced2019\SoftUniParking\bin\Debug\netcoreapp2.1\SoftUniParking.pdb
+C:\Programing\C--Advanced2019\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.dll
+C:\Programing\C--Advanced2019\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.pdb
+C:\Programing\C--Advanced2019\SoftUniParking\obj\Debug\netcoreapp2.1\SoftUniParking.genruntimeconfig.cache

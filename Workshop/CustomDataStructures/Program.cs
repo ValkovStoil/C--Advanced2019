@@ -7,7 +7,12 @@ namespace CustomDataStructures
         static void Main(string[] args)
         {
             var list = new CustomList();
-            Console.WriteLine(list[0]);
+            for (int i = 0; i < 10; i++)
+            {
+                list.Add(i);
+            }
+
+            list.RemoveAt(2);
         }
     }
 }

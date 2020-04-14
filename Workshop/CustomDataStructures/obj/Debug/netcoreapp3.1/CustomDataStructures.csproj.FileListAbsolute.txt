@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.exe
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.deps.json
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.runtimeconfig.json
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.dll
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\bin\Debug\netcoreapp3.1\CustomDataStructures.pdb
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.dll
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.pdb
+C:\Programing\C--Advanced2019\Workshop\CustomDataStructures\obj\Debug\netcoreapp3.1\CustomDataStructures.genruntimeconfig.cache

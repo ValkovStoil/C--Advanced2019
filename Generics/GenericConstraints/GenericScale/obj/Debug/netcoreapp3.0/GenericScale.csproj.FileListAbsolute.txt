@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\bin\Debug\netcoreapp3.0\GenericScale.exe
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\bin\Debug\netcoreapp3.0\GenericScale.deps.json
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\bin\Debug\netcoreapp3.0\GenericScale.runtimeconfig.json
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\bin\Debug\netcoreapp3.0\GenericScale.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\bin\Debug\netcoreapp3.0\GenericScale.dll
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\bin\Debug\netcoreapp3.0\GenericScale.pdb
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\obj\Debug\netcoreapp3.0\GenericScale.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\obj\Debug\netcoreapp3.0\GenericScale.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\obj\Debug\netcoreapp3.0\GenericScale.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\obj\Debug\netcoreapp3.0\GenericScale.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\obj\Debug\netcoreapp3.0\GenericScale.dll
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\obj\Debug\netcoreapp3.0\GenericScale.pdb
+C:\Programing\C--Advanced2019\Generics\GenericConstraints\GenericScale\obj\Debug\netcoreapp3.0\GenericScale.genruntimeconfig.cache

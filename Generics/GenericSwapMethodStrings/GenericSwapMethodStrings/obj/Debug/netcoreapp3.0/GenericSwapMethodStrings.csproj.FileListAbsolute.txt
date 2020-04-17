@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\obj\Debug\netcoreapp3.0\GenericSwapMethodStrings.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\obj\Debug\netcoreapp3.0\GenericSwapMethodStrings.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\obj\Debug\netcoreapp3.0\GenericSwapMethodStrings.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\obj\Debug\netcoreapp3.0\GenericSwapMethodStrings.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\bin\Debug\netcoreapp3.0\GenericSwapMethodStrings.exe
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\bin\Debug\netcoreapp3.0\GenericSwapMethodStrings.deps.json
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\bin\Debug\netcoreapp3.0\GenericSwapMethodStrings.runtimeconfig.json
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\bin\Debug\netcoreapp3.0\GenericSwapMethodStrings.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\bin\Debug\netcoreapp3.0\GenericSwapMethodStrings.dll
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\bin\Debug\netcoreapp3.0\GenericSwapMethodStrings.pdb
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\obj\Debug\netcoreapp3.0\GenericSwapMethodStrings.dll
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\obj\Debug\netcoreapp3.0\GenericSwapMethodStrings.pdb
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodStrings\GenericSwapMethodStrings\obj\Debug\netcoreapp3.0\GenericSwapMethodStrings.genruntimeconfig.cache

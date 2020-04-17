@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.exe
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.deps.json
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.json
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\bin\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.dll
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.pdb
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfString\GenericBoxOfString\obj\Debug\netcoreapp3.1\GenericBoxOfString.genruntimeconfig.cache

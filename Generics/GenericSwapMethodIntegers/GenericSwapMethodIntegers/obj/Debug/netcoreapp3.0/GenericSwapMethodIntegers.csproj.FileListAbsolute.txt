@@ -1,0 +1,12 @@
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.exe
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.deps.json
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.runtimeconfig.json
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.dll
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\bin\Debug\netcoreapp3.0\GenericSwapMethodIntegers.pdb
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.dll
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.pdb
+C:\Programing\C--Advanced2019\Generics\GenericSwapMethodIntegers\GenericSwapMethodIntegers\obj\Debug\netcoreapp3.0\GenericSwapMethodIntegers.genruntimeconfig.cache

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "qvnZBlF0y20iE/Cym7e68Zu0wDKdjH3s8tgo7UI9CSRN5M4fYUSojoHCDPdoqu73MPDSOUPOZK6sC4PL44UGSg==",
+  "success": true,
+  "projectFilePath": "C:\\Programing\\C--Advanced2019\\Generics\\GenericSwapMethodIntegers\\GenericSwapMethodIntegers\\GenericSwapMethodIntegers.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

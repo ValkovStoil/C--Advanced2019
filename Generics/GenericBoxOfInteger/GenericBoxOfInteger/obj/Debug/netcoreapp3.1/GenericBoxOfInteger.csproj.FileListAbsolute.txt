@@ -1,0 +1,3 @@
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\obj\Debug\netcoreapp3.1\GenericBoxOfInteger.AssemblyInfo.cs

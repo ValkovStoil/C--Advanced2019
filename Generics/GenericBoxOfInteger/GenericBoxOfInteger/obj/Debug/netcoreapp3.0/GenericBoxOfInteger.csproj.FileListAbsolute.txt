@@ -1,0 +1,12 @@
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\bin\Debug\netcoreapp3.0\GenericBoxOfInteger.exe
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\bin\Debug\netcoreapp3.0\GenericBoxOfInteger.deps.json
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\bin\Debug\netcoreapp3.0\GenericBoxOfInteger.runtimeconfig.json
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\bin\Debug\netcoreapp3.0\GenericBoxOfInteger.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\bin\Debug\netcoreapp3.0\GenericBoxOfInteger.dll
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\bin\Debug\netcoreapp3.0\GenericBoxOfInteger.pdb
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\obj\Debug\netcoreapp3.0\GenericBoxOfInteger.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\obj\Debug\netcoreapp3.0\GenericBoxOfInteger.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\obj\Debug\netcoreapp3.0\GenericBoxOfInteger.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\obj\Debug\netcoreapp3.0\GenericBoxOfInteger.dll
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\obj\Debug\netcoreapp3.0\GenericBoxOfInteger.pdb
+C:\Programing\C--Advanced2019\Generics\GenericBoxOfInteger\GenericBoxOfInteger\obj\Debug\netcoreapp3.0\GenericBoxOfInteger.genruntimeconfig.cache

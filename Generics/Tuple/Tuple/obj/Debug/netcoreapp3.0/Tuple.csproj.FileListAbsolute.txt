@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\bin\Debug\netcoreapp3.0\Tuple.exe
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\bin\Debug\netcoreapp3.0\Tuple.deps.json
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\bin\Debug\netcoreapp3.0\Tuple.runtimeconfig.json
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\bin\Debug\netcoreapp3.0\Tuple.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\bin\Debug\netcoreapp3.0\Tuple.dll
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\bin\Debug\netcoreapp3.0\Tuple.pdb
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\obj\Debug\netcoreapp3.0\Tuple.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\obj\Debug\netcoreapp3.0\Tuple.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\obj\Debug\netcoreapp3.0\Tuple.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\obj\Debug\netcoreapp3.0\Tuple.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\obj\Debug\netcoreapp3.0\Tuple.dll
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\obj\Debug\netcoreapp3.0\Tuple.pdb
+C:\Programing\C--Advanced2019\Generics\Tuple\Tuple\obj\Debug\netcoreapp3.0\Tuple.genruntimeconfig.cache

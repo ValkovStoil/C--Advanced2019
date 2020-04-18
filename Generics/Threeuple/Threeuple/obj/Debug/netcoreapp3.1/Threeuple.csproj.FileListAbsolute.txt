@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.exe
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.deps.json
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.json
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.dll
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\bin\Debug\netcoreapp3.1\Threeuple.pdb
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.dll
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.pdb
+C:\Programing\C--Advanced2019\Generics\Threeuple\Threeuple\obj\Debug\netcoreapp3.1\Threeuple.genruntimeconfig.cache

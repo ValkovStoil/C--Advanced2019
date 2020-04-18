@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vxp8Y91CCPkNuyX6RI0NKDu8Od3PJ5ZUhx8KwIXzk33VyhTOKyY0M1u2L0+GFFk4lKwb9QfuT3+5oq2cdEeckQ==",
+  "success": true,
+  "projectFilePath": "C:\\Programing\\C--Advanced2019\\Generics\\Threeuple\\Threeuple\\Threeuple.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Wq4RySEo4ouxnOs9mvlDKObRlvB/O3NpzSSotunBz00RWl/7dDR+iFXlpzLdt8bQmHJ6eiC/RSf3q8DW2a4Ttg==",
+  "success": true,
+  "projectFilePath": "C:\\Programing\\C--Advanced2019\\Generics\\CustomLinkedList\\CustomLinkedList\\CustomLinkedList.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

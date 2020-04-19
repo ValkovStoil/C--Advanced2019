@@ -11,7 +11,7 @@ namespace IteratorsAndComparators
 
         public Library(params Book[] books)
         {
-            this.books = new SortedSet<Book>(books);
+            this.books = new SortedSet<Book>(books, new BookComparator());
         }
 
         public IEnumerator<Book> GetEnumerator()

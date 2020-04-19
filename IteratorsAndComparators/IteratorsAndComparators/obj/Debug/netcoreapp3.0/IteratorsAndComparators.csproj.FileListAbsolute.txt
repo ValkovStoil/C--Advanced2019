@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.0\IteratorsAndComparators.exe
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.0\IteratorsAndComparators.deps.json
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.0\IteratorsAndComparators.runtimeconfig.json
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.0\IteratorsAndComparators.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.0\IteratorsAndComparators.dll
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\bin\Debug\netcoreapp3.0\IteratorsAndComparators.pdb
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.0\IteratorsAndComparators.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.0\IteratorsAndComparators.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.0\IteratorsAndComparators.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.0\IteratorsAndComparators.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.0\IteratorsAndComparators.dll
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.0\IteratorsAndComparators.pdb
+C:\Programing\C--Advanced2019\IteratorsAndComparators\IteratorsAndComparators\obj\Debug\netcoreapp3.0\IteratorsAndComparators.genruntimeconfig.cache

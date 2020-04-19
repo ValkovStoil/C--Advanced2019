@@ -6,17 +6,17 @@ namespace IteratorsAndComparators
 {
     public class Book
     {
-
-        public Book(string title, int year, params string[] authors)
+        public Book(string title, int year, params string[] authros)
         {
             this.Title = title;
             this.Year = year;
-            this.Authors = authors;
+            this.Authors = authros;
         }
-        public string Title { get; private set; }
 
-        public int Year { get; private set; }
+        public string Title { get; set; }
 
-        public IReadOnlyList<string> Authors { get; private set; }
+        public int Year { get; set; }
+
+        public IReadOnlyList<string> Authors { get; set; }
     }
 }

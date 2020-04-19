@@ -5,64 +5,42 @@ using System.Text;
 
 namespace IteratorsAndComparators
 {
-    public class Library: IEnumerable<Book>
+    public class Library : IEnumerable<Book>
     {
+        private List<Book> books;
+
         public Library(params Book[] books)
         {
-            this.Books = new List<Book>(books);
-        }
-
-        public List<Book> Books { get; private set; }
-
-        public void AddBook(Book book)
-        {
-            this.Books.Add(book);
+            this.books = new List<Book>(books);
         }
 
         public IEnumerator<Book> GetEnumerator()
         {
-            return new LibraryEnumerator(this.Books);
+            return new LibraryIterator(this.books);
         }
 
-        IEnumerator IEnumerable.GetEnumerator()
+        IEnumerator IEnumerable.GetEnumerator() => this.GetEnumerator();
+
+        private class LibraryIterator : IEnumerator<Book>
         {
-            return this.GetEnumerator();
-        }
-    }
+            private readonly List<Book> books;
+            private int currentIndex;
 
-    public class LibraryEnumerator : IEnumerator<Book>
-    {
-        private int currentIndex = -1;
-
-        private readonly List<Book> books;
-
-        public LibraryEnumerator(List<Book> books)
-        {
-            this.books = books;
-        }
-
-        public Book Current => this.books[currentIndex];
-
-        object IEnumerator.Current => this.Current;
-
-        public void Dispose()
-        {
-
-        }
-
-        public bool MoveNext()
-        {
-            currentIndex++;
-            if(this.currentIndex >= this.books.Count)
+            public LibraryIterator(IEnumerable<Book> books)
             {
-                return false;
+                this.Reset();
+                this.books = new List<Book>(books);
             }
-            return true;
-        }
 
-        public void Reset()
-        {
-            currentIndex = -1;
+            public Book Current => this.books[this.currentIndex];
+
+            object IEnumerator.Current => this.Current;
+
+            public void Dispose() { }
+
+            public bool MoveNext() => ++this.currentIndex < this.books.Count;
+
+            public void Reset() => this.currentIndex = -1;
         }
     }
 }

@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "WtycKnyGTLkge+S74vOiuxv2v0WoNHfRdzxNNoF2lcBO5jH75kr5X3zAcRGA+5l1RCrO4M8JdVQ7hv9sB9ja9w==",
+  "success": true,
+  "projectFilePath": "C:\\Programing\\C--Advanced2019\\ExerciseIteratorsAndComparators\\ListyIterator\\ListyIterator.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512",
+    "C:\\Users\\glamr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

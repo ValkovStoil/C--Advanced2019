@@ -39,6 +39,11 @@ namespace ListyIterator
                             Console.WriteLine(ex.Message);
                         }
                         break;
+
+                    case "PrintAll":
+                        listyIterator.PrintAll();
+                        break;
+                        
                 }
 
                 commands = Console.ReadLine();

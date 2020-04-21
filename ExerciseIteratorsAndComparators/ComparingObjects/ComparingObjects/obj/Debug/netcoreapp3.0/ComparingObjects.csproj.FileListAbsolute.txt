@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\obj\Debug\netcoreapp3.0\ComparingObjects.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\obj\Debug\netcoreapp3.0\ComparingObjects.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\obj\Debug\netcoreapp3.0\ComparingObjects.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\obj\Debug\netcoreapp3.0\ComparingObjects.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\bin\Debug\netcoreapp3.0\ComparingObjects.exe
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\bin\Debug\netcoreapp3.0\ComparingObjects.deps.json
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\bin\Debug\netcoreapp3.0\ComparingObjects.runtimeconfig.json
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\bin\Debug\netcoreapp3.0\ComparingObjects.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\bin\Debug\netcoreapp3.0\ComparingObjects.dll
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\bin\Debug\netcoreapp3.0\ComparingObjects.pdb
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\obj\Debug\netcoreapp3.0\ComparingObjects.dll
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\obj\Debug\netcoreapp3.0\ComparingObjects.pdb
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\ComparingObjects\ComparingObjects\obj\Debug\netcoreapp3.0\ComparingObjects.genruntimeconfig.cache

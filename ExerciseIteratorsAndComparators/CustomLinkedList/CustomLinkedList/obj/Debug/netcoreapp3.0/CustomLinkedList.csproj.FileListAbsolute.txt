@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.0\CustomLinkedList.exe
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.0\CustomLinkedList.deps.json
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.0\CustomLinkedList.runtimeconfig.json
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.0\CustomLinkedList.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.0\CustomLinkedList.dll
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\bin\Debug\netcoreapp3.0\CustomLinkedList.pdb
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.0\CustomLinkedList.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.0\CustomLinkedList.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.0\CustomLinkedList.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.0\CustomLinkedList.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.0\CustomLinkedList.dll
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.0\CustomLinkedList.pdb
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\CustomLinkedList\CustomLinkedList\obj\Debug\netcoreapp3.0\CustomLinkedList.genruntimeconfig.cache

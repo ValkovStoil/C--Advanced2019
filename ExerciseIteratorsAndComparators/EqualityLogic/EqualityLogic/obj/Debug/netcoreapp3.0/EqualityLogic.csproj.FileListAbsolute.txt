@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.exe
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.deps.json
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.runtimeconfig.json
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.dll
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\bin\Debug\netcoreapp3.0\EqualityLogic.pdb
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.dll
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.pdb
+C:\Programing\C--Advanced2019\ExerciseIteratorsAndComparators\EqualityLogic\EqualityLogic\obj\Debug\netcoreapp3.0\EqualityLogic.genruntimeconfig.cache

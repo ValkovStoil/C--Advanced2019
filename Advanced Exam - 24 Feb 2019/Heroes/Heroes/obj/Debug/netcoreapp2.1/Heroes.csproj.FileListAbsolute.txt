@@ -1,0 +1,12 @@
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\bin\Debug\netcoreapp2.1\Heroes.deps.json
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.json
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\bin\Debug\netcoreapp2.1\Heroes.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\bin\Debug\netcoreapp2.1\Heroes.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\bin\Debug\netcoreapp2.1\Heroes.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\obj\Debug\netcoreapp2.1\Heroes.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\obj\Debug\netcoreapp2.1\Heroes.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\obj\Debug\netcoreapp2.1\Heroes.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\obj\Debug\netcoreapp2.1\Heroes.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\obj\Debug\netcoreapp2.1\Heroes.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\Heroes\Heroes\obj\Debug\netcoreapp2.1\Heroes.genruntimeconfig.cache

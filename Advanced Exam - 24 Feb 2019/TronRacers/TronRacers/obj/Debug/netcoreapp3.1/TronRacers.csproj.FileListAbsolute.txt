@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.exe
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.deps.json
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.runtimeconfig.json
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\bin\Debug\netcoreapp3.1\TronRacers.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.genruntimeconfig.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 24 Feb 2019\TronRacers\TronRacers\obj\Debug\netcoreapp3.1\TronRacers.csprojAssemblyReference.cache

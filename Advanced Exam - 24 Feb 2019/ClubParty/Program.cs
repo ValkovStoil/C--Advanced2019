@@ -8,46 +8,49 @@ namespace ClubParty
     {
         public static void Main(string[] args)
         {
-            var halls = new List<string>();
+            var halls = new Queue<string>();
             var hallsFreeSpace = new List<int>();
 
             var hallCapacity = int.Parse(Console.ReadLine());
 
             var inputReservationInfo = Console.ReadLine()
-                .Split(" ", StringSplitOptions.RemoveEmptyEntries)
-                .Reverse()
-                .ToList();
+                .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+            var elements = new Stack<string>(inputReservationInfo);
 
-            for (int i = 0; i < inputReservationInfo.Count; i++)
+            var curentCapacity = 0;
+
+            while (elements.Count != 0)
             {
-                var ch = inputReservationInfo[i];
-                var isChar = ch.Any(ch => char.IsLetter(ch));
+                var curentElement = elements.Pop();
+
+                var isChar = curentElement.Any(ch => char.IsLetter(ch));
 
                 if (isChar)
                 {
-                    halls.Add(ch);
+                    halls.Enqueue(curentElement);
                 }
-                else if (!isChar && halls.Count != 0)
+                else
                 {
-                    var filledSpace = hallsFreeSpace.Sum();
-                    var reservation = int.Parse(ch);
-
-                    var hasFreeSpace = filledSpace + reservation <= hallCapacity;
-
-                    if (hasFreeSpace)
+                    if (halls.Count == 0)
                     {
-                        hallsFreeSpace.Add(reservation);
+                        continue;
                     }
-                    else
+
+                    var reservation = int.Parse(curentElement);
+
+                    if (curentCapacity + reservation > hallCapacity)
                     {
-                        var hall = halls.First();
-                        halls.Remove(hall);
-
-                        Console.WriteLine($"{hall} -> {string.Join(", ", hallsFreeSpace)}");
-
+                        Console.WriteLine($"{halls.Dequeue()} -> {string.Join(", ", hallsFreeSpace)}");
+                        curentCapacity = 0;
                         hallsFreeSpace.Clear();
-                        hallsFreeSpace.Add(reservation);
                     }
+
+                    if (halls.Count != 0)
+                    {
+                        hallsFreeSpace.Add(reservation);
+                        curentCapacity += reservation;
+                    }
+
                 }
             }
         }

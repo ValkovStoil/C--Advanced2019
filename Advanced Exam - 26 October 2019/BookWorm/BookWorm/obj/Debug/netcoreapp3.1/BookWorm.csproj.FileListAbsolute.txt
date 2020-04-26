@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.exe
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.deps.json
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.runtimeconfig.json
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\bin\Debug\netcoreapp3.1\BookWorm.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\BookWorm\BookWorm\obj\Debug\netcoreapp3.1\BookWorm.genruntimeconfig.cache

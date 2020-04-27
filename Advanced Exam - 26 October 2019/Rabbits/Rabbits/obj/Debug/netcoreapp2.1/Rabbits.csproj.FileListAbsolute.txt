@@ -1,0 +1,12 @@
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.deps.json
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.json
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\bin\Debug\netcoreapp2.1\Rabbits.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 26 October 2019\Rabbits\Rabbits\obj\Debug\netcoreapp2.1\Rabbits.genruntimeconfig.cache

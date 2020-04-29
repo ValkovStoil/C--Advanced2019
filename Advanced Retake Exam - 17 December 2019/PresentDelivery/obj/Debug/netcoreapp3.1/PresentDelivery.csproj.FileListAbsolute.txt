@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.exe
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.deps.json
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.runtimeconfig.json
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.dll
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\bin\Debug\netcoreapp3.1\PresentDelivery.pdb
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.dll
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.pdb
+C:\Programing\C--Advanced2019\Advanced Retake Exam - 17 December 2019\PresentDelivery\obj\Debug\netcoreapp3.1\PresentDelivery.genruntimeconfig.cache

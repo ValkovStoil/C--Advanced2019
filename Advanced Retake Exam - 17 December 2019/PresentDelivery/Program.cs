@@ -9,34 +9,170 @@ namespace PresentDelivery
             var presentsCount = int.Parse(Console.ReadLine());
             var neighbourhoodSize = int.Parse(Console.ReadLine());
             var neighbourhood = new string[neighbourhoodSize, neighbourhoodSize];
-            var happyCidsCount = 0;
+            var niceCidsCount = 0;
 
-            var santa = new Santa(0, 0);
-            FillUpTheNeighbourhood(neighbourhood, santa, ref happyCidsCount);
+
+            var santa = new Possition("S");
+
+            var isInside = true;
+
+
+            FillUpTheNeighbourhood(neighbourhood, santa, ref niceCidsCount);
 
             var commands = Console.ReadLine();
-            //TODO logic for presents giving
-            while (commands != "Christmas morning" || presentsCount != 0)
+
+            while (commands != "Christmas morning")
             {
+                
+
+                neighbourhood[santa.Row, santa.Column] = "-";
 
                 switch (commands)
                 {
                     case "left":
+                        santa.Column--;
                         break;
                     case "right":
+                        santa.Column++;
                         break;
                     case "up":
+                        santa.Row--;
                         break;
                     case "down":
+                        santa.Row++;
                         break;
+                }
+
+                isInside = IsInside(santa, neighbourhood);
+
+                if (!isInside)
+                {
+                    break;
+                }
+
+                if (neighbourhood[santa.Row, santa.Column] == "V")
+                {
+                    presentsCount--;
+                    neighbourhood[santa.Row, santa.Column] = santa.Sign;
+                }
+                else if (neighbourhood[santa.Row, santa.Column] == "X")
+                {
+                    neighbourhood[santa.Row, santa.Column] = santa.Sign;
+                }
+                else if (neighbourhood[santa.Row, santa.Column] == "C")
+                {
+                    if (neighbourhood[santa.Row, santa.Column + 1] != "-" && neighbourhood[santa.Row, santa.Column + 1] != "C")
+                    {
+                        if (presentsCount > 0)
+                        {
+                            neighbourhood[santa.Row, santa.Column + 1] = "-";
+                            presentsCount--;
+                        }
+                    }
+
+                    if (neighbourhood[santa.Row, santa.Column - 1] != "-" && neighbourhood[santa.Row, santa.Column - 1] != "C")
+                    {
+                        if (presentsCount > 0)
+                        {
+                            neighbourhood[santa.Row, santa.Column - 1] = "-";
+                            presentsCount--;
+                        }
+                    }
+
+                    if (neighbourhood[santa.Row + 1, santa.Column] != "-" && neighbourhood[santa.Row + 1, santa.Column] != "C")
+                    {
+                        if (presentsCount > 0)
+                        {
+                            neighbourhood[santa.Row + 1, santa.Column] = "-";
+                            presentsCount--;
+                        }
+                    }
+
+                    if (neighbourhood[santa.Row - 1, santa.Column] != "-" && neighbourhood[santa.Row - 1, santa.Column] != "C")
+                    {
+                        if (presentsCount > 0)
+                        {
+                            neighbourhood[santa.Row - 1, santa.Column] = "-";
+                            presentsCount--;
+
+                        }
+                    }
+
+                }
+
+                if(!isInside || presentsCount <= 0)
+                {
+                    break;
                 }
 
                 commands = Console.ReadLine();
             }
+            
+            if(presentsCount <= 0)
+            {
+                Console.WriteLine("Santa ran out of presents!");
+            }
+
+            if (isInside)
+            {
+                neighbourhood[santa.Row, santa.Column] = santa.Sign;
+            }
+
+            PrintMatrix(neighbourhood);
+
+
+           var niceCidsWithNoPressents = NiceCidsLeftWihtNoPresents(neighbourhood);
+
+            if(niceCidsWithNoPressents != 0)
+            {
+                Console.WriteLine($"No presents for {niceCidsWithNoPressents} nice kid/s.");
+            }
+            else
+            {
+                Console.WriteLine($"Good job, Santa! {niceCidsCount} happy nice kid/s.");
+            }
+
 
         }
 
-        private static void FillUpTheNeighbourhood(string[,] neighbourhood, Santa santa, ref int happyCidsCount)
+        private static int NiceCidsLeftWihtNoPresents(string[,] neighbourhood)
+        {
+            var kids = 0;
+            for (int row = 0; row < neighbourhood.GetLength(0); row++)
+            {
+
+                for (int col = 0; col < neighbourhood.GetLength(1); col++)
+                {
+                    if (neighbourhood[row,col] == "V")
+                    {
+                        kids++;
+                    }
+                }
+            }
+
+            return kids;
+        }
+
+        private static bool IsInside(Possition santa, string[,] neighbourhood)
+        {
+            return santa.Column >= 0 && santa.Row >= 0 &&
+                santa.Column < neighbourhood.GetLength(1)
+                && santa.Row < neighbourhood.GetLength(0);
+        }
+
+        private static void PrintMatrix(string[,] neighbourhood)
+        {
+            for (int row = 0; row < neighbourhood.GetLength(0); row++)
+            {
+                for (int col = 0; col < neighbourhood.GetLength(1); col++)
+                {
+                    Console.Write(neighbourhood[row, col] + " ");
+                }
+                Console.WriteLine();
+            }
+        }
+
+        private static void FillUpTheNeighbourhood(string[,] neighbourhood, Possition santa, ref int happyCidsCount)
         {
             for (int row = 0; row < neighbourhood.GetLength(0); row++)
             {
@@ -45,12 +181,12 @@ namespace PresentDelivery
 
                 for (int col = 0; col < neighbourhood.GetLength(1); col++)
                 {
-                    if(neighbourhoodInfo[col] == "S")
+                    if (neighbourhoodInfo[col] == "S")
                     {
                         santa.Row = row;
                         santa.Column = col;
                     }
-                    else if( neighbourhoodInfo[col] == "V")
+                    else if (neighbourhoodInfo[col] == "V")
                     {
                         happyCidsCount++;
                     }
@@ -61,13 +197,11 @@ namespace PresentDelivery
         }
 
     }
-    public class Santa
+    public class Possition
     {
-        public Santa(int row, int column)
+        public Possition(string sign)
         {
-            this.Row = row;
-            this.Column = column;
-            this.Sign = "S";
+            this.Sign = sign;
         }
 
         public int Row { get; set; }

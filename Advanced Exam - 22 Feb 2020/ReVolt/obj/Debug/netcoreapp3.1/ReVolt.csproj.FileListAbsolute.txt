@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.exe
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.deps.json
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.runtimeconfig.json
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\bin\Debug\netcoreapp3.1\ReVolt.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\ReVolt\obj\Debug\netcoreapp3.1\ReVolt.genruntimeconfig.cache

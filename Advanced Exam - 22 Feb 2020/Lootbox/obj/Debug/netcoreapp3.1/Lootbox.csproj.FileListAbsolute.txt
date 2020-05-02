@@ -1,0 +1,13 @@
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.exe
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.deps.json
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.json
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.runtimeconfig.dev.json
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\bin\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csprojAssemblyReference.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.csproj.CoreCompileInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfoInputs.cache
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.AssemblyInfo.cs
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.dll
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.pdb
+C:\Programing\C--Advanced2019\Advanced Exam - 22 Feb 2020\Lootbox\obj\Debug\netcoreapp3.1\Lootbox.genruntimeconfig.cache

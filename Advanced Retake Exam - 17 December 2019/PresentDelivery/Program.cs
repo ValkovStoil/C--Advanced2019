@@ -1,213 +1,183 @@
 ﻿using System;
+using System.Linq;
 
 namespace PresentDelivery
 {
-    class Program
+    public class program
     {
-        static void Main(string[] args)
+        private static char[][] neighbourhood;
+        private static int santaRow;
+        private static int santaCol;
+        private static int happyKids;
+
+        static void Main()
         {
-            var presentsCount = int.Parse(Console.ReadLine());
-            var neighbourhoodSize = int.Parse(Console.ReadLine());
-            var neighbourhood = new string[neighbourhoodSize, neighbourhoodSize];
-            var niceCidsCount = 0;
+            int presentsCount = int.Parse(Console.ReadLine());
+            int n = int.Parse(Console.ReadLine());
+            FillMatrix(n);
 
-
-            var santa = new Possition("S");
-
-            var isInside = true;
-
-
-            FillUpTheNeighbourhood(neighbourhood, santa, ref niceCidsCount);
-
-            var commands = Console.ReadLine();
-
-            while (commands != "Christmas morning")
+            string direction;
+            while ((direction = Console.ReadLine()) != "Christmas morning" && presentsCount > 0)
             {
-                
+                int nextRow = santaRow;
+                int nextCol = santaCol;
+                CalculateNextCoordinates(direction, ref nextRow, ref nextCol);
+                char nextSymbol = neighbourhood[nextRow][nextCol];
 
-                neighbourhood[santa.Row, santa.Column] = "-";
-
-                switch (commands)
-                {
-                    case "left":
-                        santa.Column--;
-                        break;
-                    case "right":
-                        santa.Column++;
-                        break;
-                    case "up":
-                        santa.Row--;
-                        break;
-                    case "down":
-                        santa.Row++;
-                        break;
-                }
-
-                isInside = IsInside(santa, neighbourhood);
-
-                if (!isInside)
-                {
-                    break;
-                }
-
-                if (neighbourhood[santa.Row, santa.Column] == "V")
+                if (nextSymbol == 'V')
                 {
                     presentsCount--;
-                    neighbourhood[santa.Row, santa.Column] = santa.Sign;
+                    happyKids++;
                 }
-                else if (neighbourhood[santa.Row, santa.Column] == "X")
+                else if (nextSymbol == 'C')
                 {
-                    neighbourhood[santa.Row, santa.Column] = santa.Sign;
-                }
-                else if (neighbourhood[santa.Row, santa.Column] == "C")
-                {
-                    if (neighbourhood[santa.Row, santa.Column + 1] != "-" && neighbourhood[santa.Row, santa.Column + 1] != "C")
-                    {
-                        if (presentsCount > 0)
-                        {
-                            neighbourhood[santa.Row, santa.Column + 1] = "-";
-                            presentsCount--;
-                        }
-                    }
-
-                    if (neighbourhood[santa.Row, santa.Column - 1] != "-" && neighbourhood[santa.Row, santa.Column - 1] != "C")
-                    {
-                        if (presentsCount > 0)
-                        {
-                            neighbourhood[santa.Row, santa.Column - 1] = "-";
-                            presentsCount--;
-                        }
-                    }
-
-                    if (neighbourhood[santa.Row + 1, santa.Column] != "-" && neighbourhood[santa.Row + 1, santa.Column] != "C")
-                    {
-                        if (presentsCount > 0)
-                        {
-                            neighbourhood[santa.Row + 1, santa.Column] = "-";
-                            presentsCount--;
-                        }
-                    }
-
-                    if (neighbourhood[santa.Row - 1, santa.Column] != "-" && neighbourhood[santa.Row - 1, santa.Column] != "C")
-                    {
-                        if (presentsCount > 0)
-                        {
-                            neighbourhood[santa.Row - 1, santa.Column] = "-";
-                            presentsCount--;
-
-                        }
-                    }
-
+                    GiveGiftsToAllAround(ref presentsCount, nextRow, nextCol);
                 }
 
-                if(!isInside || presentsCount <= 0)
-                {
-                    break;
-                }
+                neighbourhood[santaRow][santaCol] = '-';
+                neighbourhood[nextRow][nextCol] = 'S';
 
-                commands = Console.ReadLine();
+                santaRow = nextRow;
+                santaCol = nextCol;
             }
-            
-            if(presentsCount <= 0)
+
+            if (direction != "Christmas morning" && presentsCount == 0)
             {
                 Console.WriteLine("Santa ran out of presents!");
             }
 
-            if (isInside)
+            PrintMatrix(n);
+
+            int niceKidsLeftCount = CountOfNiceKidsLeft(n);
+
+            if (niceKidsLeftCount == 0)
             {
-                neighbourhood[santa.Row, santa.Column] = santa.Sign;
-            }
-
-            PrintMatrix(neighbourhood);
-
-
-           var niceCidsWithNoPressents = NiceCidsLeftWihtNoPresents(neighbourhood);
-
-            if(niceCidsWithNoPressents != 0)
-            {
-                Console.WriteLine($"No presents for {niceCidsWithNoPressents} nice kid/s.");
+                Console.WriteLine($"Good job, Santa! {happyKids} happy nice kid/s.");
             }
             else
             {
-                Console.WriteLine($"Good job, Santa! {niceCidsCount} happy nice kid/s.");
+                Console.WriteLine($"No presents for {niceKidsLeftCount} nice kid/s.");
             }
-
-
         }
 
-        private static int NiceCidsLeftWihtNoPresents(string[,] neighbourhood)
+        private static int CountOfNiceKidsLeft(int n)
         {
-            var kids = 0;
-            for (int row = 0; row < neighbourhood.GetLength(0); row++)
-            {
+            int niceKidsLeftCount = 0;
 
-                for (int col = 0; col < neighbourhood.GetLength(1); col++)
+            for (int row = 0; row < n; row++)
+            {
+                for (int col = 0; col < n; col++)
                 {
-                    if (neighbourhood[row,col] == "V")
+                    if (neighbourhood[row][col] == 'V')
                     {
-                        kids++;
+                        niceKidsLeftCount++;
                     }
                 }
             }
 
-            return kids;
+            return niceKidsLeftCount;
         }
 
-        private static bool IsInside(Possition santa, string[,] neighbourhood)
+        private static void PrintMatrix(int n)
         {
-            return santa.Column >= 0 && santa.Row >= 0 &&
-                santa.Column < neighbourhood.GetLength(1)
-                && santa.Row < neighbourhood.GetLength(0);
-        }
-
-        private static void PrintMatrix(string[,] neighbourhood)
-        {
-            for (int row = 0; row < neighbourhood.GetLength(0); row++)
+            for (int row = 0; row < n; row++)
             {
-                for (int col = 0; col < neighbourhood.GetLength(1); col++)
-                {
-                    Console.Write(neighbourhood[row, col] + " ");
-                }
-                Console.WriteLine();
+                Console.WriteLine(String.Join(" ", neighbourhood[row]));
             }
         }
 
-        private static void FillUpTheNeighbourhood(string[,] neighbourhood, Possition santa, ref int happyCidsCount)
+        private static void GiveGiftsToAllAround(ref int presentsCount, int nextRow, int nextCol)
         {
-            for (int row = 0; row < neighbourhood.GetLength(0); row++)
+            int countOfGiftsGiven = 0;
+
+            if (IsKidOnCoordinates(nextRow, nextCol - 1))
             {
-                var neighbourhoodInfo = Console.ReadLine()
-                    .Split(" ", StringSplitOptions.RemoveEmptyEntries);
+                ProceedCookie(nextRow, nextCol - 1, ref countOfGiftsGiven);
+            }
 
-                for (int col = 0; col < neighbourhood.GetLength(1); col++)
-                {
-                    if (neighbourhoodInfo[col] == "S")
-                    {
-                        santa.Row = row;
-                        santa.Column = col;
-                    }
-                    else if (neighbourhoodInfo[col] == "V")
-                    {
-                        happyCidsCount++;
-                    }
+            if (IsKidOnCoordinates(nextRow, nextCol + 1))
+            {
+                ProceedCookie(nextRow, nextCol + 1, ref countOfGiftsGiven);
+            }
 
-                    neighbourhood[row, col] = neighbourhoodInfo[col];
-                }
+            if (IsKidOnCoordinates(nextRow - 1, nextCol))
+            {
+                ProceedCookie(nextRow - 1, nextCol, ref countOfGiftsGiven);
+            }
+
+            if (IsKidOnCoordinates(nextRow + 1, nextCol))
+            {
+                ProceedCookie(nextRow + 1, nextCol, ref countOfGiftsGiven);
+            }
+
+            presentsCount -= countOfGiftsGiven;
+        }
+        private static void ProceedCookie(int nextRow, int nextCol, ref int countOfGiftsGiven)
+        {
+            if (neighbourhood[nextRow][nextCol] == 'V')
+            {
+                happyKids++;
+            }
+
+            neighbourhood[nextRow][nextCol] = '-';
+
+            countOfGiftsGiven++;
+        }
+
+        private static bool IsKidOnCoordinates(int row, int col)
+        {
+            return neighbourhood[row][col] == 'X' ||
+                neighbourhood[row][col] == 'V';
+        }
+
+        private static void CalculateNextCoordinates(string direction, ref int nextRow, ref int nextCol)
+        {
+            if (direction == "up")
+            {
+                nextRow--;
+            }
+            else if (direction == "down")
+            {
+                nextRow++;
+            }
+            else if (direction == "left")
+            {
+                nextCol--;
+            }
+            else if (direction == "right")
+            {
+                nextCol++;
             }
         }
 
-    }
-    public class Possition
-    {
-        public Possition(string sign)
+        private static void FillMatrix(int n)
         {
-            this.Sign = sign;
+            neighbourhood = new char[n][];
+            bool santaFound = false;
+            for (int row = 0; row < n; row++)
+            {
+                char[] currentRow = Console.ReadLine()
+                    .Split(' ')
+                    .Select(char.Parse)
+                    .ToArray();
+
+                if (!santaFound)
+                {
+                    for (int col = 0; col < currentRow.Length; col++)
+                    {
+                        if (currentRow[col] == 'S')
+                        {
+                            santaRow = row;
+                            santaCol = col;
+                            santaFound = true;
+
+                            break;
+                        }
+                    }
+                }
+
+                neighbourhood[row] = currentRow;
+            }
         }
-
-        public int Row { get; set; }
-
-        public int Column { get; set; }
-
-        public string Sign { get; set; }
     }
 }

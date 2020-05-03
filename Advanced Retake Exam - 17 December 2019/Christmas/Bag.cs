@@ -24,7 +24,7 @@ namespace Christmas
 
         public void Add(Present present)
         {
-            if(this.data.Count < Capacity)
+            if(this.data.Count < this.Capacity)
             {
                 this.data.Add(present);
             }
@@ -35,7 +35,13 @@ namespace Christmas
             var presentToRemove = this.data
                 .FirstOrDefault(n => n.Name == name);
 
-            return this.data.Remove(presentToRemove);
+            if(presentToRemove != null)
+            {
+                this.data.Remove(presentToRemove);
+                return true;
+            }
+
+            return false;
         }
 
         public Present GetHeaviestPresent()
@@ -50,7 +56,7 @@ namespace Christmas
         public Present GetPresent(string name)
         {
             var result = this.data
-                .FirstOrDefault(n => n.Name == name);
+                .First(n => n.Name == name);
 
             return result;
         }
@@ -63,7 +69,7 @@ namespace Christmas
 
             foreach (var present in this.data)
             {
-                report.AppendLine($"Present {present.Name} for a {present.Gender}");
+                report.AppendLine(present.ToString());
             }
 
 
